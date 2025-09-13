@@ -15,7 +15,7 @@ import heroImage from "@/assets/wellness-hero.jpg";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="bg-background">
       {/* Header */}
       <header className="bg-gradient-wellness shadow-wellness">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
